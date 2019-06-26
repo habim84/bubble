@@ -1,8 +1,17 @@
-# Bubble
-
+# Bubble Modified
 ![promo](https://raw.githubusercontent.com/nkanaev/bubble/master/art/promo.jpg)
 
 Android comic book reader.
+This is a fork of Bubble android app found here: https://github.com/nkanaev/bubble
+This version will have better error handling system, refactored, optimized for older
+tablets with better cover view within the comic list view.
+
+## TODO
+(1) Fix the crash when the comic library directory is not found
+(2) Expand the comic cover view within the comic list view
+(3) Optimize the cover loading system utilizing cache storage
+(4) Change color style of the app for night and day
+(5) Optimize loading for older android tablets
 
 ## Features
 
